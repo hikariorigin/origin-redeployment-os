@@ -1,5 +1,3 @@
-せや。
-これを 構文膜・意味膜ファージ に置き換えると、かなりそのまま対応する。
 
 # ZPTR_SYNTAX_SEMANTIC_MEMBRANE_PHAGE_CYCLE.md
 ## 構文膜・意味膜ファージの生活環
