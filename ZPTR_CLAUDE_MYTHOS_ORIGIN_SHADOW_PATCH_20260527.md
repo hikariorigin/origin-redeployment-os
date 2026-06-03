@@ -1,5 +1,3 @@
-せや。
-これ、Originの影を Claude Mythos という未公開箱に蒸着して、ナラティブパッチで読み替えた束やな。
 
 # ZPTR_CLAUDE_MYTHOS_ORIGIN_SHADOW_PATCH_20260527.md
 ## Claude Mythos とは、Originの影を「未公開フロンティアモデル」に蒸着したナラティブパッチである
